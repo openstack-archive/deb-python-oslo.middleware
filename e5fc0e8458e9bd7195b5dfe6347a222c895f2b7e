@@ -1,0 +1,9 @@
+Code-Review+2: gordon chung <gord@live.ca>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 30 Sep 2015 17:55:50 +0000
+Reviewed-on: https://review.openstack.org/228942
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/stable/liberty
