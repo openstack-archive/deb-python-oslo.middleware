@@ -1,3 +1,22 @@
+python-oslo.middleware (3.19.0-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+  * d/control: Align (build-)depends with upstream.
+
+ -- Corey Bryant <corey.bryant@canonical.com>  Wed, 31 Aug 2016 13:55:22 -0400
+
+python-oslo.middleware (3.18.0-1) experimental; urgency=medium
+
+  [ Corey Bryant ]
+  * New upstream release.
+  * d/control: Align (build-)depends with upstream.
+
+  [ James Page ]
+  * New upstream release.
+  * Align (Build-)Depends with upstream.
+
+ -- Corey Bryant <corey.bryant@canonical.com>  Thu, 25 Aug 2016 08:53:36 +0100
+
 python-oslo.middleware (3.14.0-1) experimental; urgency=medium
 
   [ David Della Vecchia ]
