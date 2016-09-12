@@ -49,8 +49,8 @@ Build-Depends-Indep: python-coverage,
                      subunit,
                      testrepository,
 Standards-Version: 3.9.8
-Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-oslo.middleware.git/
-Vcs-Git: https://anonscm.debian.org/git/openstack/python-oslo.middleware.git
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-python-oslo.middleware
+Vcs-Git: https://git.openstack.org/openstack/deb-python-oslo.middleware
 Homepage: https://github.com/openstack/oslo.middleware
 
 Package: python-oslo.middleware
