@@ -1,0 +1,9 @@
+Code-Review+1: Stenio Araujo <stenioaraujo@lsd.ufcg.edu.br>
+Code-Review+2: gordon chung <gord@live.ca>
+Workflow+1: gordon chung <gord@live.ca>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 01 Nov 2016 12:29:24 +0000
+Reviewed-on: https://review.openstack.org/388392
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/master

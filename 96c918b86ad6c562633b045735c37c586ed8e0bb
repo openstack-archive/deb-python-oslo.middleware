@@ -1,0 +1,11 @@
+Code-Review+2: Mehdi Abaakouk (sileht) <sileht@redhat.com>
+Code-Review+1: Jesse Keating <omgjlk@us.ibm.com>
+Code-Review+1: Steve Martinelli <s.martinelli@gmail.com>
+Code-Review+2: ChangBo Guo(gcb) <glongwave@gmail.com>
+Workflow+1: ChangBo Guo(gcb) <glongwave@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 02 Nov 2016 02:55:00 +0000
+Reviewed-on: https://review.openstack.org/387752
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/master
