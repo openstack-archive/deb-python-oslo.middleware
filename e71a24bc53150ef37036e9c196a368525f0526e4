@@ -1,0 +1,10 @@
+Code-Review+1: Eric Brown <browne@vmware.com>
+Code-Review+2: Alexis Lee <lxsli@hpe.com>
+Workflow+1: Victor Stinner <vstinner@redhat.com>
+Code-Review+2: Victor Stinner <vstinner@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 21 Nov 2016 15:16:03 +0000
+Reviewed-on: https://review.openstack.org/398036
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/master
