@@ -1,0 +1,9 @@
+Code-Review+2: Joshua Harlow <jxharlow@godaddy.com>
+Code-Review+2: gordon chung <gord@live.ca>
+Workflow+1: gordon chung <gord@live.ca>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 26 Jan 2017 21:59:48 +0000
+Reviewed-on: https://review.openstack.org/425818
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/stable/mitaka
