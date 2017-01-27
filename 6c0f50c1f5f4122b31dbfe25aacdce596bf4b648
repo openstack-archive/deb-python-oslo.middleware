@@ -1,0 +1,9 @@
+Code-Review+2: gordon chung <gord@live.ca>
+Code-Review+1: Matthew Edmonds <edmondsw@us.ibm.com>
+Workflow+1: Joshua Harlow <jxharlow@godaddy.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 26 Jan 2017 22:26:38 +0000
+Reviewed-on: https://review.openstack.org/425732
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/stable/newton
