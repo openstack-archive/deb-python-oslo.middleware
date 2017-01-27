@@ -1,8 +1,13 @@
-python-oslo.middleware (3.19.0-3) UNRELEASED; urgency=medium
+python-oslo.middleware (3.19.0-3) unstable; urgency=medium
 
+  [ Ondřej Nový ]
   * Bumped debhelper compat version to 10
 
- -- Ondřej Nový <onovy@debian.org>  Thu, 24 Nov 2016 00:09:16 +0100
+  [ Thomas Goirand ]
+  * CVE-2017-2592: CatchErrors leaks sensitive values in oslo.middleware.
+    Applied upstream patch (Closes: #852742).
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 27 Jan 2017 16:34:33 +0100
 
 python-oslo.middleware (3.19.0-2) unstable; urgency=medium
 

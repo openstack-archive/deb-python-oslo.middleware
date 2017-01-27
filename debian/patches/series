@@ -1,1 +1,2 @@
 remove-privacy-breach-in-README.rst.patch
+CVE-2017-2592_Filter-token-data-out-of-catch_errors-middleware.patch
