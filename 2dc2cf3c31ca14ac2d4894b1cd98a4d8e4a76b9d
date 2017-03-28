@@ -1,0 +1,9 @@
+Code-Review+2: ChangBo Guo(gcb) <glongwave@gmail.com>
+Workflow+1: ChangBo Guo(gcb) <glongwave@gmail.com>
+Code-Review+1: Lingyong Xu <lyxu@fiberhome.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 28 Mar 2017 10:40:20 +0000
+Reviewed-on: https://review.openstack.org/449036
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/master
