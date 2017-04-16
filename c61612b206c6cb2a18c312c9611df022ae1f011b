@@ -1,0 +1,8 @@
+Code-Review+2: gordon chung <gord@live.ca>
+Workflow+1: gordon chung <gord@live.ca>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 16 Apr 2017 19:46:38 +0000
+Reviewed-on: https://review.openstack.org/452481
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/master
