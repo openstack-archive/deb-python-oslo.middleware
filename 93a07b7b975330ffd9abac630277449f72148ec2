@@ -1,0 +1,10 @@
+Code-Review+1: Siyi Luo <syluo5695@fiberhome.com>
+Code-Review+1: Wayne Chan <waynechan76@gmail.com>
+Code-Review+2: ChangBo Guo(gcb) <glongwave@gmail.com>
+Workflow+1: ChangBo Guo(gcb) <glongwave@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 26 Apr 2017 14:17:58 +0000
+Reviewed-on: https://review.openstack.org/456983
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/master
