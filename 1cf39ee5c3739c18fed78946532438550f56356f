@@ -1,0 +1,10 @@
+Code-Review+1: Dong Ma <winterma.dong@gmail.com>
+Code-Review+2: gordon chung <gord@live.ca>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 12 Jul 2017 19:28:56 +0000
+Reviewed-on: https://review.openstack.org/483001
+Project: openstack/deb-python-oslo.middleware
+Branch: refs/heads/master
